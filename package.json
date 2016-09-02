@@ -1,0 +1,12 @@
+{
+  "title": "Temer Golpista",
+  "name": "temer-golpista",
+  "version": "0.0.1",
+  "description": "Plugin para substituir \"Michel Temer\" por \"Temer Golpista\" nas páginas web.",
+  "main": "index.js",
+  "author": "Marina Limeira",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT"
+}
